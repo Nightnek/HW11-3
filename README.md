@@ -14,6 +14,7 @@ Quote
 Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name.
 
 ---
+![image](https://github.com/Nightnek/HW11-3/assets/127677631/106cf93b-cabc-42ca-bc71-b3cd82c8e795)
 
 ---
 ## Задание 2. Kibana
@@ -22,6 +23,7 @@ Quote
 Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty.
 
 ---
+![image](https://github.com/Nightnek/HW11-3/assets/127677631/329e9f8b-9bfa-4e22-afe8-868d3dbe6638)
 
 ---
 ## Задание 3. Logstash
@@ -30,6 +32,7 @@ Quote
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.
 
 ---
+![image](https://github.com/Nightnek/HW11-3/assets/127677631/ad8755aa-63c4-410d-bdd7-08729d2d5f02)
 
 ---
 ## Задание 4. Filebeat.
